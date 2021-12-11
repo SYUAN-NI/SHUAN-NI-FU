@@ -1,9 +1,9 @@
 <!---
-niniuser/niniuser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SHUAN NI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 #introduction<br>
-Hi!My name is **nini**.Nice to see you guys on this web.
+Hi!My name is **SHUAN NI**.Nice to see you guys on this web.
 I'am a **student** in ncu in Taiwan.
 If you have a chance traveling in this beautiful island,maybe I can show you how nice Taiwan is.
 
